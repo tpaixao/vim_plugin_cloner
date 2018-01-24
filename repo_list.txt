@@ -1,0 +1,17 @@
+https://github.com/LaTeX-Box-Team/LaTeX-Box.git
+https://github.com/mgee/lightline-bufferline.git
+https://github.com/itchyny/lightline.vim
+https://github.com/tomasr/molokai.git
+https://github.com/scrooloose/nerdcommenter.git
+https://github.com/scrooloose/nerdtree.git
+https://github.com/ervandew/supertab.git
+https://github.com/freitass/todo.txt-vim.git
+https://github.com/SirVer/ultisnips.git
+https://github.com/Shougo/unite.vim.git
+https://github.com/vim-scripts/utl.vim.git
+https://github.com/flazz/vim-colorschemes.git
+https://github.com/xolox/vim-misc.git
+https://github.com/xolox/vim-notes.git
+https://github.com/honza/vim-snippets.git
+https://github.com/tpope/vim-surround.git
+https://github.com/vim-voom/VOoM.git
