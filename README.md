@@ -10,5 +10,10 @@ Here's what you can do:
  * __updating your repos__:  _pull_repos.sh_ will update all your plugins. The argument is the bundle directory.
  * __reinstalling all your repos__: _clone_repos.sh_ clones the repos listed in a file (which it takes as an argument).
 
+This is useful to me, and I put it up here because it might be useful to you too.
+
+_repo_list.txt_ is __my__ list of plugins and _.vimrc_ is __my__ .vimrc, so that I have some backups :)
+
+
 
 
