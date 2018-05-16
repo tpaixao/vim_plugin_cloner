@@ -15,3 +15,4 @@ https://github.com/xolox/vim-notes.git
 https://github.com/honza/vim-snippets.git
 https://github.com/tpope/vim-surround.git
 https://github.com/vim-voom/VOoM.git
+https://github.com/ryym/vim-riot.git
